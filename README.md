@@ -1,4 +1,4 @@
 # javascript_calculator
-see work http://codepen.io/upanan82/full/YGbpqy/
+see work https://upanan82.github.io/javascript_calculator/
 
 © upanan82
