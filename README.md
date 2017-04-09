@@ -1,4 +1,2 @@
-# javascript_calculator
-see work https://upanan82.github.io/javascript_calculator/
-
-© upanan82
+# javascript-calculator
+Demo &nbsp;-&nbsp; https://upanan82.github.io/javascript-calculator/
